@@ -1,0 +1,13 @@
+{
+  "density_correlation": 0.3110758645268299,
+  "density_tenure_correlation": 0.9095560180388016,
+  "players_correlation": -0.2642979709529521,
+  "linear_intercept": 0.5526641219964638,
+  "mean_mae_gain_pp": 0.12805777321065745,
+  "season_bootstrap_95_percentile_interval": [
+    -0.10440934618980366,
+    0.3605248926111186
+  ],
+  "python": "3.12.14",
+  "sklearn": "1.8.0"
+}

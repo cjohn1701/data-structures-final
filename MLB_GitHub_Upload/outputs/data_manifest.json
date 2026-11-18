@@ -1,0 +1,14 @@
+[
+  {
+    "file": "data/raw/Teams.csv",
+    "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/f91e6ed4824ad5cdb75c3a5495d228294d91a184/csv/Lahman/Teams.csv",
+    "sha256": "9d1c390df5d2a422175f6bcfb56d099cfb9c5805586ba5e3f8c895a9952423ad",
+    "retrieved": "2026-11-18"
+  },
+  {
+    "file": "data/raw/Appearances.csv",
+    "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/f91e6ed4824ad5cdb75c3a5495d228294d91a184/csv/Lahman/Appearances.csv",
+    "sha256": "c1f5ed768ef4161d5a8813ba0d6061fb984acb442a393d53078f376811a2f6f3",
+    "retrieved": "2026-11-18"
+  }
+]
