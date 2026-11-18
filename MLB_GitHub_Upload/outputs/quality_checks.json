@@ -1,0 +1,9 @@
+{
+  "rows": 600,
+  "columns": 10,
+  "duplicate_appearance_rows_removed": 0,
+  "missing_cells": 0,
+  "unmatched_keys": 0,
+  "train_rows": 450,
+  "test_rows": 150
+}
