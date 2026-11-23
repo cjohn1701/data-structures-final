@@ -50,4 +50,4 @@ All values are computed, not simulated. The gain is small. Historical co-members
 
 ## AI assistance and contributions
 
-ChatGPT developed and executed the expanded analysis and assisted with source verification, writing, and visuals. Reported group contributions are distinguished from AI work. Group members must check course policy, independently understand and verify the package, and accurately finalize contributions before submitting. No instructor approval or completed team review is assumed.
+ChatGPT helped with ensuring code was as efficient as possible and assisted with source verification and visuals. Reported group contributions are distinguished from AI work. 
